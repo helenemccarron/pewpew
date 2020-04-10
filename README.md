@@ -8,7 +8,7 @@ Hello prospective Pewpewer! This is the starting point of a journey to learning 
 ## Current meeting agenda
 
 ## Resources
-
+Check the resource folder on the repo.
 
 ## Contact Info
 

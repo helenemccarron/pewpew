@@ -10,6 +10,9 @@ Hello prospective Pewpewer! This is the starting point of a journey to learning 
 ## Resources
 Check the resource folder on the repo.
 
+Kevin's shell tutorial GDoc:
+[here](https://docs.google.com/document/d/1Jahr7gF_Vk0c_YIlknFtEIfb6uYO90n3lHNBNzZqzFg/edit#heading=h.6hoczvbzlpxq)
+
 ## Contact Info
 
 ### Slack

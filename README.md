@@ -8,6 +8,7 @@ Hello prospective Pewpewer! This is the starting point of a journey to learning 
 
 More to come soon, stay tuned!
 ## Current meeting agenda
+Next topic: [master your terminal](https://github.com/helenemccarron/pewpew/blob/master/resources/terminal.md)
 
 ## Resources
 

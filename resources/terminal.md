@@ -1,7 +1,8 @@
 
 Documentation:
 https://docs.google.com/document/d/1Jahr7gF_Vk0c_YIlknFtEIfb6uYO90n3lHNBNzZqzFg/edit# 
-
+Moar Documentation:
+https://docs.google.com/document/d/1JQ-6MZds5e9VbJhuuPfbDnfTYmaoaRfCQiQCzsQE9HA/edit
 
 # General knowledge
  - what is the shell?
